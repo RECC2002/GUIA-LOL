@@ -1,0 +1,58 @@
+*{
+	margin: 0px;
+	padding:0px;
+	box-sizing: border-box;
+}body{
+	background: #0D1F4E;}
+
+.comentario-registro{
+	width: 500px;
+	background: #090D18;
+	padding:30px;
+	margin: auto;
+	margin-top:100px;
+	font-family: calibri;
+	color: white;
+	border-radius: 4%;
+}.comentario-registro h4{
+	font-size: 22px;
+	margin-bottom: 20px;
+}.controls{
+	width: 100%;
+	background: #525252;
+	padding:10px;
+	border-radius: 4px;
+	margin-bottom: 16px;
+	border: 1px solid blue; 
+	font-family: calibri;
+	font-size: 18px;
+}.encuesta{
+	width: 100%;
+	background: #525252;
+	padding:100px;
+	border-radius: 4px;
+	margin-bottom: 16px;
+	border: 1px solid blue; 
+	font-family: calibri;
+	font-size: 30px;
+}
+.comentario-registro p {
+	text-decoration: none;
+	color:white;
+
+}.comentario-registro a {
+	text-decoration: none;
+	color:red;
+
+}.comentario-registro a:hover {
+	text-decoration: none;
+	color:underline;
+}.comentario-registro .botons{
+	width: 100%;
+	border:none;
+	background: #4D80FF;
+	padding: 12px;
+	color: white;
+	margin: 16px 0px;
+	font-size: 16px;
+}
